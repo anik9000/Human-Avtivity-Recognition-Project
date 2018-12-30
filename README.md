@@ -16,3 +16,4 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 A brief description about the dataset can be found in the jupyter notebook.
+First use HAR_EDA followed by HAR_LSTM and finally HAR_PREDICTION_MODELS.
